@@ -1,26 +1,28 @@
-EXP 03 - CREATE A WEB-LAYOUT USING FLEXBOX
+# EXP 03 - CREATE A WEB-LAYOUT USING FLEXBOX
 
-
-AIM:
+## AIM:
 To create a web-layout using flexbox.
 
-SOFTWARE:
+## SOFTWARE:
+
 Visual Studio Code
 
-ALGORITHM:
-Create a new HTML file or open an existing one.Add the necessary HTML elements to represent your layout sections, such as header, sidebar, main content, and footer.
-Give each section a meaningful class or ID to target them in CSS.
-Open your CSS file or add a style block within the HTML file.Set the display property of the parent container to display flex. This activates Flexbox layout for the container.
-Optionally, adjust the flex-direction property to control the flow of elements. The default value is row, which creates a horizontal layout. Other options are column, row-reverse, and column-reverse.
-Add additional CSS properties as needed, such as width, height, background color, and margins, to style the container and its child elements.
-Organize the child elements
-Check if the layout behaves as expected and adjusts correctly on different screen sizes.
-Make any necessary adjustments to the Flexbox properties or additional CSS styles. Repeat the testing and iteration process until the layout meets your requirements.
+## ALGORITHM:
 
+1) Create a new HTML file or open an existing one.Add the necessary HTML elements to represent your layout sections, such as header, sidebar, main content, and footer.
+2) Give each section a meaningful class or ID to target them in CSS.
+3) Open your CSS file or add a style block within the HTML file.Set the display property of the parent container to display flex. This activates Flexbox layout for the container.
+4) Optionally, adjust the flex-direction property to control the flow of elements. The default value is row, which creates a horizontal layout. Other options are column, row-reverse, and column-reverse.
+5) Add additional CSS properties as needed, such as width, height, background color, and margins, to style the container and its child elements.
+6) Organize the child elements
+7) Check if the layout behaves as expected and adjusts correctly on different screen sizes.
+8) Make any necessary adjustments to the Flexbox properties or additional CSS styles.
+Repeat the testing and iteration process until the layout meets your requirements.
 
-PROGRAM:
+## PROGRAM:
+
 java
-
+```
 <!doctype html>
 <title>Example</title>
 <style>
@@ -70,12 +72,12 @@ java
   </div>
   <footer>Footer</footer>
 </body>
+```
 
+## OUTPUT:
 
-OUTPUT:
+<img width="1280" alt="image" src="https://github.com/Monisha-11/EXP-03---MODERN-WEB/assets/93427240/b3a35b2d-cddd-4101-95c6-0900a6f2ab1b">
 
-![image](https://github.com/Shinysudhakar/3-web-layout-using-flexbox/assets/127575325/ae9b1761-612b-489c-a374-aa5c83178a70)
+## RESULT:
 
-
-RESULT:
 Thus the web-layout using flexbox is created.

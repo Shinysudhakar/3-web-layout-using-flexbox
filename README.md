@@ -16,6 +16,8 @@ Add additional CSS properties as needed, such as width, height, background color
 Organize the child elements
 Check if the layout behaves as expected and adjusts correctly on different screen sizes.
 Make any necessary adjustments to the Flexbox properties or additional CSS styles. Repeat the testing and iteration process until the layout meets your requirements.
+
+
 PROGRAM:
 java
 
@@ -68,6 +70,8 @@ java
   </div>
   <footer>Footer</footer>
 </body>
+
+
 OUTPUT:
 
 ![image](https://github.com/Shinysudhakar/3-web-layout-using-flexbox/assets/127575325/ae9b1761-612b-489c-a374-aa5c83178a70)
